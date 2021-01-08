@@ -2,9 +2,6 @@
 layout: post
 title: My android stuffs
 subtitle: Some informations about my android stuffs.
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
 tags: [android, software]
 ---
 
